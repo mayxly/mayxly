@@ -3,7 +3,7 @@
 My name is May and I'm currently a third year student in computer science at the University of Waterloo.
 I have experience in iOS & full stack web development. As a developer, I love building client-facing products that focus on a great mission & UX/UI expereince!
 
-### Skills 👨‍💻
+### Skills 👩‍💻
 **Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +47,7 @@ I have experience in iOS & full stack web development. As a developer, I love bu
 ### 👯 Previously worked on ... 
 * Building features on [theScore Bet](https://apps.apple.com/ca/app/thescore-bet-sports-betting/id1465992052) & [ESPN Bet](https://apps.apple.com/us/app/espn-bet/id6463805689) iOS apps as an iOS intern @ [theScore](https://www.scoremediaandgaming.com/)
 * Developing features on the [World Surf League](https://apps.apple.com/ca/app/world-surf-league/id966709252) iOS app as an iOS intern @ [TribalScale](https://www.tribalscale.com/)
-* Building a pre-qualification software for lawyers as a Full Stack Intern @ [Lawbrokr](https://www.lawbrokr.com/)
+* Building a pre-qualification software for lawyers as a full stack intern @ [Lawbrokr](https://www.lawbrokr.com/)
 
 
 ### 🌱 I’m currently learning ...
