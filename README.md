@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is May and I'm currently a third year student in computer science at the University of Waterloo.
+My name is May and I'm currently a third year computer science student at the University of Waterloo.
 I have experience in iOS & full stack web development. As a developer, I love building client-facing products that focus on a great mission & UX/UI expereince!
 
 ### Skills 👩‍💻
